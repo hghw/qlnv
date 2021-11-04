@@ -1,0 +1,15 @@
+C:\Users\thiet\source\repos\qlnv\qlnv\bin\Debug\netcoreapp3.1\qlnv.exe
+C:\Users\thiet\source\repos\qlnv\qlnv\bin\Debug\netcoreapp3.1\qlnv.deps.json
+C:\Users\thiet\source\repos\qlnv\qlnv\bin\Debug\netcoreapp3.1\qlnv.runtimeconfig.json
+C:\Users\thiet\source\repos\qlnv\qlnv\bin\Debug\netcoreapp3.1\qlnv.runtimeconfig.dev.json
+C:\Users\thiet\source\repos\qlnv\qlnv\bin\Debug\netcoreapp3.1\qlnv.dll
+C:\Users\thiet\source\repos\qlnv\qlnv\bin\Debug\netcoreapp3.1\qlnv.pdb
+C:\Users\thiet\source\repos\qlnv\qlnv\obj\Debug\netcoreapp3.1\qlnv.csproj.AssemblyReference.cache
+C:\Users\thiet\source\repos\qlnv\qlnv\obj\Debug\netcoreapp3.1\qlnv.AssemblyInfoInputs.cache
+C:\Users\thiet\source\repos\qlnv\qlnv\obj\Debug\netcoreapp3.1\qlnv.AssemblyInfo.cs
+C:\Users\thiet\source\repos\qlnv\qlnv\obj\Debug\netcoreapp3.1\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\thiet\source\repos\qlnv\qlnv\obj\Debug\netcoreapp3.1\qlnv.dll
+C:\Users\thiet\source\repos\qlnv\qlnv\obj\Debug\netcoreapp3.1\qlnv.pdb
+C:\Users\thiet\source\repos\qlnv\qlnv\obj\Debug\netcoreapp3.1\qlnv.genruntimeconfig.cache
+C:\Users\thiet\source\repos\qlnv\qlnv\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\thiet\source\repos\qlnv\qlnv\obj\Debug\netcoreapp3.1\qlnv.csproj.CopyComplete

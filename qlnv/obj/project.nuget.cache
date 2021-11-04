@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A/O8+Kh7xPclZANeP49GgVk1MfesD88IEPVelaeXPtoGEkMxZs/EjOGQ1f5PdV2P0A+v1I9GyW6ClXHXfpPHEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiet\\source\\repos\\qlnv\\qlnv\\qlnv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiet\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
